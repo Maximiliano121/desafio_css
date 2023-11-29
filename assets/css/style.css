@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+
+text-align: right;
+background-image: url("../imgs/fondopastel.jpg");
+background-repeat: no repeat;
+background-size: cover;
+height: 200px;
+color:white;
+padding: 40px;
+margin-bottom: 40px;
+}
+
+header h1 {
+margin: 0;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 40px;
+padding-bottom: 5px;
+}
+
+header p {
+font-style: oblique;
+font-size: 30px;
+}
+
+.items td {
+width: 70%;
+padding: 5px;
+text-align: center;
+font-family: fantasy,Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.items img {
+    width: 70%;
+border: solid 3px; border-radius: 7%; color:darkslategray;
+}
+
+footer {
+text-align: center;
+background-color: darkslategrey;
+color: white;
+height: 30px;
+margin-top: 20px;
+}
+
+table { 
+margin: auto;
+width: 60%;
+}
